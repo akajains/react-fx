@@ -1,0 +1,27 @@
+{
+  "name": "aj-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akajains/react-fx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akajains/react-fx/issues"
+  },
+  "homepage": "https://github.com/akajains/react-fx#readme",
+  "dependencies": {
+    "rxjs": "^5.0.0-rc.3"
+  },
+  "devDependencies": {
+    "ts-loader": "^1.2.1",
+    "typescript": "^2.0.10",
+    "typings": "^2.0.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
